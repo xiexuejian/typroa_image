@@ -1,5 +1,3 @@
 # typroa_image
 图床
 
-私钥
-5932f7f48236755fa01ba71442b596a1745d2d7e
